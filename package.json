@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.6",
+    "@openzeppelin/contracts": "^4.8.0",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.3"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
